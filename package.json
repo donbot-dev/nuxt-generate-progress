@@ -1,0 +1,30 @@
+{
+  "name": "nuxt-generate-progress",
+  "version": "1.0.0",
+  "description": "A simple module to show the progress of the number of generated pages during the run of the nuxt generate command.",
+  "main": "dist/module.js",
+  "scripts": {
+    "build": "rm -rf dist && tsc -p tsconfig.json",
+    "precommit": "lint-staged",
+    "prepublish:npm": "npm run build",
+    "publish:npm": "npm publish --access public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donbot-dev/nuxt-generate-progress.git"
+  },
+  "author": "donbot <hello@donbot.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donbot-dev/nuxt-generate-progress/issues"
+  },
+  "homepage": "https://github.com/donbot-dev/nuxt-generate-progress#readme",
+  "devDependencies": {
+    "@nuxt/types": "^2.14.1",
+    "consola": "^2.15.0",
+    "eslint": "^7.6.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "typescript": "^3.9.7"
+  }
+}

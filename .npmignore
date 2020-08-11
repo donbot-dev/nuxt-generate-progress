@@ -1,0 +1,6 @@
+.github
+lib
+.eslintrc.js
+.prettierrc.js
+index.ts
+tsconfig.json
