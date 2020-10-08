@@ -1,1 +1,3 @@
-export * from './module';
+import { generateProgressModule } from './module';
+
+export default generateProgressModule;
