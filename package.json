@@ -33,5 +33,8 @@
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-import": "^2.22.0",
     "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "date-fns": "^2.16.1"
   }
 }
