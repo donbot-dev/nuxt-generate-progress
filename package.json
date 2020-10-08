@@ -1,6 +1,6 @@
 {
   "name": "nuxt-generate-progress",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple module to show the progress of the number of generated pages during the run of the nuxt generate command.",
   "keywords": [
     "nuxt",
