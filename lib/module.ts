@@ -19,5 +19,3 @@ export const generateProgressModule: Module = function () {
     );
   });
 };
-
-export default generateProgressModule;
