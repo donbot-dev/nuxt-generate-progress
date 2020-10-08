@@ -36,3 +36,5 @@ export const generateProgressModule: Module = function () {
     consola.info(`Generate cost – ${generateDurationFormatted}.`);
   });
 };
+
+export default generateProgressModule;
