@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 Donbot (hey@donbot.dev)
+Copyright (c) 2020 Robot Mafia Inc. (hey@robot-mafia.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

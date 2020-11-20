@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/donbot-dev/nuxt-generate-progress.git"
+    "url": "git+https://github.com/robot-mafia/nuxt-generate-progress.git"
   },
-  "author": "Donbot <hey@donbot.dev>",
+  "author": "Robot Mafia Inc. <hey@robot-mafia.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/donbot-dev/nuxt-generate-progress/issues"
+    "url": "https://github.com/robot-mafia/nuxt-generate-progress/issues"
   },
-  "homepage": "https://github.com/donbot-dev/nuxt-generate-progress#readme",
+  "homepage": "https://github.com/robot-mafia/nuxt-generate-progress#readme",
   "devDependencies": {
     "@nuxt/types": "^2.14.1",
     "consola": "^2.15.0",
